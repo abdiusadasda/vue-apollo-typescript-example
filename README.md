@@ -15,7 +15,7 @@
 
 `./modules/vue-apollo` [apollo-module](https://github.com/nuxt-community/apollo-module)
 
-## Build Setup
+## Build Setups
 
 ``` bash
 

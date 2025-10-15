@@ -40,4 +40,4 @@ $ npm run gql-gen-url
 
 ```
 
-For detailed explanation on how thing work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+For detailed explanation on how things works, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).

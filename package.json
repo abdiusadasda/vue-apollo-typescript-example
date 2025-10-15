@@ -9,6 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/OniVe/vue-apollo-typescript-example"
   },
+  
   "files": [
     "apollo",
     "models",

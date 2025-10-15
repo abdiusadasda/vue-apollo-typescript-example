@@ -1,8 +1,5 @@
 # vue-apollo-typescript-example
 
-
-
-> 
 ## References
 
 [Vue](https://vuejs.org/index.html)

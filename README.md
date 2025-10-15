@@ -3,7 +3,7 @@
 
 
 > 
-## Reference
+## References
 
 [Vue](https://vuejs.org/index.html)
 

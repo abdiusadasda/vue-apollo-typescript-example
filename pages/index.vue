@@ -22,6 +22,7 @@ import gqlAllCars from '~/apollo/queries/AllCars.graphql'
 export default class IndexPage extends Vue {
 
   head = {
+    
     title: 'Cars with Apollo'
   }
 

